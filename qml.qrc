@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mainpage.qml</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>mainlevel.qml</file>
+        <file>game.qml</file>
+        <file>Player.qml</file>
+        <file>Joystick.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>epifan.png</file>
+        <file>pahom.png</file>
+        <file>arena.gif</file>
+    </qresource>
+</RCC>
